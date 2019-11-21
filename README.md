@@ -8,6 +8,8 @@ Project description : Work in progress
 
 There will be updates on this read me file every time needed :
 
+================= V3.0 =================<br/>
++Presentation IOT_Project V2.0<br/>
 ================= V2.0 =================<br/>
 +Presentation IOT_Project V2.0<br/>
 +Change of material for detection<br/>
